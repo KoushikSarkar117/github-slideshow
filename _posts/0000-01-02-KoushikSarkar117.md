@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+hello everyone my name is koushik and this is my first project in Github.
 Use the left arrow to go back!
